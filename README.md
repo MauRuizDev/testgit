@@ -2,4 +2,4 @@
 
 Pruebas de comando git
 
-1er commit de master
+1er commit de develop
